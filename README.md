@@ -23,6 +23,7 @@ cd Create-Agent-Skills-Folders
 - Trigger skill selection in a new chat:
   - Claude Code: `/select-project-skills`
   - Codex: `$select-project-skills`
+  - other: `use select-project-skills`
 - Let the model help screen and pick the most suitable skills for your project.
 
 ## Managing Skills

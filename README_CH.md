@@ -22,6 +22,7 @@ cd Create-Agent-Skills-Folders
 - 在新的聊天中触发技能选择：
   - Claude Code: `/select-project-skills`
   - Codex: `$select-project-skills`
+  - other: `use select-project-skills`
 - 让模型帮助筛选并选择最适合你项目的技能集合。
 
 ## 管理技能
