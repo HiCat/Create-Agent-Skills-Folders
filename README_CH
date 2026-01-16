@@ -1,0 +1,13 @@
+# Create-Agent-Skills-Folders
+
+本项目用于在新建 vibecoding 时创建文件夹结构。你可以使用本项目已提供的 skill，也可以自行添加新的 skill 到 `.projectSkills/unskills`。
+
+## 使用技能
+
+- 在新对话中触发技能：`/select-project-skills`（Claude Code）或 `$select-project-skills`（Codex）。
+- 可借助大模型能力筛选更适合项目的技能。
+
+## 管理技能
+
+- 添加技能：将 skill 文件夹放入 `.projectSkills/skills`。
+- 移除技能：将 skill 文件夹从 `.projectSkills/skills` 移到 `.projectSkills/unskills`，或直接删除。

@@ -1,0 +1,13 @@
+# Create-Agent-Skills-Folders
+
+This project helps you create the folder structure for new vibecoding. You can use the skills already included here or add new skills to `.projectSkills/unskills`.
+
+## Using skills
+
+- In a new chat, trigger skills with: `/select-project-skills` (Claude Code) or `$select-project-skills` (Codex).
+- Let the model help screen and choose the most suitable skills for your project.
+
+## Managing skills
+
+- Add skills: place the skill folder into `.projectSkills/skills`.
+- Remove skills: move the skill folder from `.projectSkills/skills` to `.projectSkills/unskills`, or delete it.
