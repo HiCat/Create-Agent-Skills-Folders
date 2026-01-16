@@ -10,18 +10,13 @@ This repository helps you quickly create and manage the folder structure for "sk
 
 ## Quick Start
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/HiCat/Create-Agent-Skills-Folders.git
-   cd Create-Agent-Skills-Folders
-   ```
+Clone the repo:
 
-2. Make sure the repository root contains `README.md` so GitHub renders it as Markdown. If you currently have a `README` without an extension, rename it:
-   ```bash
-   git mv README README.md
-   git commit -m "Rename README to README.md"
-   git push origin main
-   ```
+```bash
+git clone https://github.com/HiCat/Create-Agent-Skills-Folders.git
+cd Create-Agent-Skills-Folders
+```
+
 
 ## Using Skills
 
